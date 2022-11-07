@@ -1,6 +1,6 @@
 
 
-2021.03~2021.07 습관 교정 프로그램 제작 - 1인 프로젝트
+2021.03~2021.07 [습관 교정 프로그램 제작](https://github.com/Juminn/Habit-Corrector) - 1인 프로젝트
 
 2021.09~2022.05 [GPS와 BLE 기반 COVID-19 접촉자 파악 및 전자출입 명부 자동 시스템](https://github.com/Juminn/GPS-based-Covid-19-tracking) 구축 - 4인 프로젝트
 
