@@ -12,7 +12,7 @@
 - 웹사이트 개발 react, node.js
 - 역할: node.js로 백엔드 개발담당
 
-### 2021.09~2021.12 [유튜브 리얼타임 코멘트 크롬 확장 프로그램](https://github.com/Juminn/ChromeExtentsion_WebCommunication) 제작 - 4인 프로젝트
+### 2021.09~2021.12 [유튜브 리얼타임 코멘트 크롬 확장 프로그램](https://github.com/Juminn/ChromeExtentsion_WebCommunication) 제작 - 3인 프로젝트
 - 유튜브 리얼타임 코멘트 크롬 확장 프로그램 제작
 - javascript, html사용 
 - 역할: front 기능 개발담당
