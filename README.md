@@ -18,7 +18,7 @@
 
 ![페어프로그래밍 시연 짧게](https://user-images.githubusercontent.com/90203114/201276877-3bf95dcd-c0e8-4361-9db7-4431f47be09e.gif)
 
-- 페어 프로그래밍 학습 매칭 플랫폼 개발
+- 페어 프로그래밍 학습 플랫폼 개발
 - 웹사이트 개발 react, node.js
 - 역할: node.js로 백엔드 개발담당
 
