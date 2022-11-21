@@ -14,7 +14,7 @@
 - 사용자용 Android App(java)과 서버(Node.js)구축
 - 역할: 기획과 Java로 안드로이드 앱 기능 개발담당
 
-### 2022.06~2022.09 [페어 프로그래밍 학습 매칭 플랫폼](https://github.com/JaeJuParkKangJeong/cowede-websocket) 개발 - 5인 프로젝트
+### 2022.06~2022.09 [페어 프로그래밍 학습 플랫폼](https://github.com/JaeJuParkKangJeong/cowede-websocket) 개발 - 5인 프로젝트
 
 ![페어프로그래밍 시연 짧게](https://user-images.githubusercontent.com/90203114/201276877-3bf95dcd-c0e8-4361-9db7-4431f47be09e.gif)
 
