@@ -12,7 +12,7 @@
 
 - 제1저자로서 팀원 세 명, 교수님과 함께 GPS와 BLE 기반 COVID-19 접촉자 파악 및 전자출입 명부 자동 시스템 구축 및 학술논문 작성
 - 사용자용 Android App(java)과 서버(Spring boot)구축
-- 역할: 기획과 Java로 안드로이드 앱 기능 개발담당
+- 역할: 기획, Java로 안드로이드 앱 기능 개발(GPS 관련 기능, BLE 통신 기능), 서버 로직 설계와 보완
 
 ### 2022.06~2022.09 [페어 프로그래밍 학습 플랫폼](https://github.com/JaeJuParkKangJeong/cowede-websocket) 개발 - 5인 프로젝트
 
@@ -20,7 +20,7 @@
 
 - 페어 프로그래밍 학습 플랫폼 개발
 - react(front), node.js(back-end)
-- 역할: node.js로 백엔드 개발담당
+- 역할: node.js로 백엔드 개발(매칭과 동시편집 기능)
 
 ### 2021.09~2021.12 [유튜브 리얼타임 코멘트 크롬 확장 프로그램](https://github.com/Juminn/ChromeExtentsion_WebCommunication) 제작 - 3인 프로젝트
 
