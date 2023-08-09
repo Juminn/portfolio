@@ -1,4 +1,4 @@
-### 2023.07~ [자동차공업사 개인사이트 개발 및 운영](https://github.com/Juminn/Car-Web)
+### 2023.07~ [자동차공업사 개인사이트 개발 및 운영](https://github.com/Juminn/Car-Web) - 개인 프로젝트
 
 URL: https://car-engineer-su.com/
 
