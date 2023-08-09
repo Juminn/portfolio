@@ -1,3 +1,15 @@
+### 2023.07~ [자동차공업사 개인사이트 운영](https://github.com/Juminn/Car-Web)
+
+URL: https://car-engineer-su.com/
+
+![image](https://github.com/Juminn/Car-Web/assets/90203114/e47990bf-9950-44b7-ab36-4b6105ab1063)
+
+- 아버지 자동차공업사 홍보를 위해 웹사이트 제작 후 운영중
+- React, Spring boot, AWS
+- 역할: 총괄 - AWS를 통해 CI/CD 구축하고 Front-end 와 Back-end도 분리하여 개발, 배포 진행
+- 구조1: user - react(front-end) - spring boot(back-end)
+- 구조2: github(CI) - codebuild(AWS - CD) - [ S3(AWS - front Storage), EC2(AWS - Server) ]- CloudFront(AWS - CDN) - route53(AWS - DNS, hositng)
+
 ### 2021.03~2021.07 [습관 교정 프로그램(Habit corrector using I3D cnn model) 제작](https://github.com/Juminn/Habit-Corrector) - 1인 프로젝트
 
 
