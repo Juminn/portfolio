@@ -15,6 +15,11 @@ Server: https://github.com/Car-repair-estimated-web/When-To-Go-Server
 - 기획 및 Front-end, Back-end, Infra
 - React, Spring boot, AWS
 
+-인프라 구성도(AWS)
+
+![image](https://github.com/Juminn/portfolio/assets/90203114/d0d6917c-7476-4757-bd5d-20fe49e9bd1e)
+
+
 
 ### 2023.05 ~ [자동차공업사 개인사이트 개발 및 운영](https://github.com/Juminn/Car-Web) - 개인 프로젝트
 
