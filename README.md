@@ -1,7 +1,9 @@
 ### 2023.07 ~ 출퇴근 언제해 서비스 (운영 중) - 개인 프로젝트
 
 URL: https://언제출발해.com/ 
-<br/>
+
+https://github.com/Juminn/portfolio/assets/90203114/21362426-6049-4f9b-bfcf-7a0464b5ce6a
+
 Front: https://github.com/Juminn/When-to-go-front <br/>
 Server: https://github.com/Car-repair-estimated-web/When-To-Go-Server
 
