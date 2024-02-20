@@ -2,7 +2,7 @@
 
 URL: https://언제출발해.com/ 
 
-https://github.com/Juminn/portfolio/assets/90203114/21362426-6049-4f9b-bfcf-7a0464b5ce6a
+https://github.com/Juminn/portfolio/assets/90203114/fa249fe5-d6c3-4153-8faa-6374d224d3bd
 
 Front: https://github.com/Juminn/When-to-go-front <br/>
 Server: https://github.com/Car-repair-estimated-web/When-To-Go-Server
