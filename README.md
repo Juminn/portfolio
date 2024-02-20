@@ -1,3 +1,21 @@
+### 2023.07 ~ 출퇴근 언제해 서비스 (운영 중) - 개인 프로젝트
+
+URL: https://언제출발해.com/ 
+<br/>
+Front: https://github.com/Juminn/When-to-go-front <br/>
+Server: https://github.com/Car-repair-estimated-web/When-To-Go-Server
+
+- 출퇴근을 몇시에, 어느 루트로 가는게 가장 좋을 지 추천해주는 사용자 맞춤형 길찾기 서비스
+```
+- Ex) 출퇴근 자율제로 인해 07 ~ 11시 사이에 출근해야하는 A씨는 지하철을 가장 선호하며, 걷기보단 버스를 좋아한다.
+      input(설정 값): 시간: 07~11, 시간당 대중교통 비용( 지하철 비용: 7000, 버스: 9000, 걷기: 11000 )
+      output: 가장 기회비용이 적게드는 출퇴근 시간과 루트를 제공
+```
+- 네이버 지도API와 개인 기회비용 데이터를 활용한 출퇴근 시간과 대중교통 추천 서비스를 총괄
+- 기획 및 Front-end, Back-end, Infra
+- React, Spring boot, AWS
+
+
 ### 2023.05 ~ [자동차공업사 개인사이트 개발 및 운영](https://github.com/Juminn/Car-Web) - 개인 프로젝트
 
 URL: https://car-engineer-su.com/
