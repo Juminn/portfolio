@@ -2,8 +2,7 @@
 
 URL: https://언제출발해.com/ 
 
-https://github.com/Juminn/portfolio/assets/90203114/fa249fe5-d6c3-4153-8faa-6374d224d3bd
-
+https://github.com/Juminn/portfolio/assets/90203114/a9052148-d8af-4ecb-a768-6aeb32bd3a05
 - 출퇴근을 몇시에, 어느 루트로 가는게 가장 좋을 지 추천해주는 사용자 맞춤형 길찾기 서비스
 ```
 - Ex) 출퇴근 자율제로 인해 07 ~ 11시 사이에 출근해야하는 A씨는 지하철을 가장 선호하며, 걷기보단 버스를 좋아한다.
