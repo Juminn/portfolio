@@ -22,7 +22,7 @@ ex) 1. 유연근무제로 출근시간 조정이 가능할 때 몇시에 어느 
 - 기획 및 Front-end, Back-end, Infra
 - React, Spring boot, AWS
 
-Front, 사용법: https://github.com/Juminn/When-to-go-front <br/>
+Front, 서비스 이용법: https://github.com/Juminn/When-to-go-front <br/>
 Server: https://github.com/Car-repair-estimated-web/When-To-Go-Server
 
 -인프라 구성도(AWS)
