@@ -13,7 +13,7 @@ https://github.com/Juminn/portfolio/assets/90203114/a9052148-d8af-4ecb-a768-6aeb
 - 기획 및 Front-end, Back-end, Infra
 - React, Spring boot, AWS
 
-Front: https://github.com/Juminn/When-to-go-front <br/>
+Front, 사용법: https://github.com/Juminn/When-to-go-front <br/>
 Server: https://github.com/Car-repair-estimated-web/When-To-Go-Server
 
 -인프라 구성도(AWS)
