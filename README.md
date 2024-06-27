@@ -40,7 +40,7 @@ ToBe
 ```
   
 Front, 서비스 이용법: https://github.com/Juminn/When-to-go-front <br/>
-Server: https://github.com/Car-repair-estimated-web/When-To-Go-Server
+Server: https://github.com/Juminn/When-Are-You-Leaving
 
 -인프라 구성도(AWS)
 
